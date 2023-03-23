@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "128882274375",
+    "project_id": "beemodoro",
+    "storage_bucket": "beemodoro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128882274375:android:755fea53a0559d3b6a8162",
+        "android_client_info": {
+          "package_name": "com.beemodoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128882274375-qc0c35tcgh4ai0trbueeet1ekji20uup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXW9PavzViwJ2qxTDqSY2oDuQekG_wZi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128882274375-qc0c35tcgh4ai0trbueeet1ekji20uup.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128882274375-6jojvsrmoajsrvnc3kpj9cdc8uj0saco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beemodoro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
